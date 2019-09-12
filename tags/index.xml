@@ -5,12 +5,52 @@
     <link>https://maxhanusch.github.io/tags/</link>
       <atom:link href="https://maxhanusch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2019</copyright><lastBuildDate>Thu, 12 Sep 2019 19:51:58 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://maxhanusch.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Amegilla</title>
+      <link>https://maxhanusch.github.io/tags/amegilla/</link>
+      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/amegilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dacus longistylus</title>
+      <link>https://maxhanusch.github.io/tags/dacus-longistylus/</link>
+      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/dacus-longistylus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megachile</title>
+      <link>https://maxhanusch.github.io/tags/megachile/</link>
+      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/megachile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>native fauna</title>
+      <link>https://maxhanusch.github.io/tags/native-fauna/</link>
+      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/native-fauna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new records</title>
+      <link>https://maxhanusch.github.io/tags/new-records/</link>
+      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/new-records/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
