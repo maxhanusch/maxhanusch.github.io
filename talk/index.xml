@@ -5,12 +5,28 @@
     <link>https://maxhanusch.github.io/talk/</link>
       <atom:link href="https://maxhanusch.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2019</copyright><lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://maxhanusch.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Integrative Taxonomy reveals new Macaronesian bryohphyte species</title>
+      <link>https://maxhanusch.github.io/talk/floramac_funchal/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/talk/floramac_funchal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overlooked Diversity in Epipterygium</title>
+      <link>https://maxhanusch.github.io/talk/imoss_stpete/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/talk/imoss_stpete/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
