@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>urban planning | Maximilian Hanusch</title>
+    <link>https://maxhanusch.github.io/tags/urban-planning/</link>
+      <atom:link href="https://maxhanusch.github.io/tags/urban-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>urban planning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2019</copyright><lastBuildDate>Thu, 12 Sep 2019 19:51:58 +0200</lastBuildDate>
+    <image>
+      <url>https://maxhanusch.github.io/img/icon-192.png</url>
+      <title>urban planning</title>
+      <link>https://maxhanusch.github.io/tags/urban-planning/</link>
+    </image>
+    
+    <item>
+      <title>A Conceptual Framework for Choosing Target Species for Wildlife-Inclusive Urban Design</title>
+      <link>https://maxhanusch.github.io/publication/aad_sustainability/</link>
+      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/publication/aad_sustainability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
