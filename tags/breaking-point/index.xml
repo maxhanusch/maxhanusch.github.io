@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>breaking point | Maximilian Hanusch</title>
+    <link>https://maxhanusch.github.io/tags/breaking-point/</link>
+      <atom:link href="https://maxhanusch.github.io/tags/breaking-point/index.xml" rel="self" type="application/rss+xml" />
+    <description>breaking point</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 21:26:00 +0200</lastBuildDate>
+    <image>
+      <url>https://maxhanusch.github.io/img/icon-192.png</url>
+      <title>breaking point</title>
+      <link>https://maxhanusch.github.io/tags/breaking-point/</link>
+    </image>
+    
+    <item>
+      <title>Breaking point analysis in R</title>
+      <link>https://maxhanusch.github.io/post/breakpoint/</link>
+      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/post/breakpoint/</guid>
+      <description>
+
+&lt;h1 id=&#34;breakingpoint-analysis&#34;&gt;Breakingpoint analysis&lt;/h1&gt;
+
+&lt;p&gt;This tutorial shows you how to run a breaking point analysis in R using the   &lt;a href=&#34;https://www.rdocumentation.org/packages/segmented/versions/1.1-0&#34; target=&#34;_blank&#34;&gt;segmented v11.0&lt;/a&gt; package  (Muggeo, 2019). I´ve run it on a .gpx file that i retrtived from a fitness-tracking app. Most of these apps allow you to export the tracks and your training progress and they make an ideal testing source for R-analyses.   &lt;a href=&#34;files/distance.txt&#34; target=&#34;_blank&#34;&gt;The raw data&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;image2.jpg&#34; &gt;
+
+&lt;img src=&#34;image2.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Sempervivum montanum&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
