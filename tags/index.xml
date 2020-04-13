@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/tags/</link>
       <atom:link href="https://maxhanusch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 21:26:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Mon, 13 Apr 2020 21:26:00 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>analysis</title>
       <link>https://maxhanusch.github.io/tags/analysis/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/analysis/</guid>
       <description></description>
     </item>
@@ -23,8 +23,96 @@
     <item>
       <title>app</title>
       <link>https://maxhanusch.github.io/tags/app/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://maxhanusch.github.io/tags/data/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gpx</title>
+      <link>https://maxhanusch.github.io/tags/gpx/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/gpx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenStreetMap</title>
+      <link>https://maxhanusch.github.io/tags/openstreetmap/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/openstreetmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSM</title>
+      <link>https://maxhanusch.github.io/tags/osm/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/osm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://maxhanusch.github.io/tags/r/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R studio</title>
+      <link>https://maxhanusch.github.io/tags/r-studio/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/r-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>running</title>
+      <link>https://maxhanusch.github.io/tags/running/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salzburg</title>
+      <link>https://maxhanusch.github.io/tags/salzburg/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/salzburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial</title>
+      <link>https://maxhanusch.github.io/tags/spatial/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tracking</title>
+      <link>https://maxhanusch.github.io/tags/tracking/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>waypoint</title>
+      <link>https://maxhanusch.github.io/tags/waypoint/</link>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/waypoint/</guid>
       <description></description>
     </item>
     
@@ -33,14 +121,6 @@
       <link>https://maxhanusch.github.io/tags/community/</link>
       <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data</title>
-      <link>https://maxhanusch.github.io/tags/data/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/data/</guid>
       <description></description>
     </item>
     
@@ -77,14 +157,6 @@
     </item>
     
     <item>
-      <title>gpx</title>
-      <link>https://maxhanusch.github.io/tags/gpx/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/gpx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hohe Tauern</title>
       <link>https://maxhanusch.github.io/tags/hohe-tauern/</link>
       <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
@@ -109,62 +181,6 @@
     </item>
     
     <item>
-      <title>OpenStreetMap</title>
-      <link>https://maxhanusch.github.io/tags/openstreetmap/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/openstreetmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OSM</title>
-      <link>https://maxhanusch.github.io/tags/osm/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/osm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://maxhanusch.github.io/tags/r/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R studio</title>
-      <link>https://maxhanusch.github.io/tags/r-studio/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/r-studio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>running</title>
-      <link>https://maxhanusch.github.io/tags/running/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/running/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salzburg</title>
-      <link>https://maxhanusch.github.io/tags/salzburg/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/salzburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spatial</title>
-      <link>https://maxhanusch.github.io/tags/spatial/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/spatial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>START</title>
       <link>https://maxhanusch.github.io/tags/start/</link>
       <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
@@ -177,22 +193,6 @@
       <link>https://maxhanusch.github.io/tags/successional/</link>
       <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/successional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tracking</title>
-      <link>https://maxhanusch.github.io/tags/tracking/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>waypoint</title>
-      <link>https://maxhanusch.github.io/tags/waypoint/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/waypoint/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/post/</link>
       <atom:link href="https://maxhanusch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 21:26:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Mon, 13 Apr 2020 21:26:00 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Posts</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Analyse your fitness tracks in R</title>
       <link>https://maxhanusch.github.io/post/running/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
+      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
       <guid>https://maxhanusch.github.io/post/running/</guid>
       <description>
 
