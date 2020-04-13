@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>waypoint | Maximilian Hanusch</title>
+    <link>https://maxhanusch.github.io/tags/waypoint/</link>
+      <atom:link href="https://maxhanusch.github.io/tags/waypoint/index.xml" rel="self" type="application/rss+xml" />
+    <description>waypoint</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 21:26:00 +0200</lastBuildDate>
+    <image>
+      <url>https://maxhanusch.github.io/img/icon-192.png</url>
+      <title>waypoint</title>
+      <link>https://maxhanusch.github.io/tags/waypoint/</link>
+    </image>
+    
+    <item>
+      <title>Analyse your fitness tracks in R</title>
+      <link>https://maxhanusch.github.io/post/running/</link>
+      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/post/running/</guid>
+      <description>
+
+&lt;h1 id=&#34;analyze-your-running-tracks-with-r&#34;&gt;Analyze your running tracks with R&lt;/h1&gt;
+
+&lt;p&gt;This tutorial shows you how to analyse your running data that are stored nowadays by many tracking apps. Most of these apps allow you to export the tracks  and your training progress. I´ve been using  &lt;a href=&#34;https://www.runtastic.com/de/&#34; target=&#34;_blank&#34;&gt;runtastic&lt;/a&gt; lately which allows you to export the stored data (unfortunately only!) once a week and the export took three days to be available.  Not very customer friendly but thats another story to be told&amp;hellip;..&lt;/p&gt;
+
+&lt;p&gt;The data used in this tutorial can be downloaded under this link and is a .gpx file that was exported from my fitness app.  I was jogging up  a small mountain called &lt;a href=&#34;https://goo.gl/maps/LHJgBrBQpfyrX8nT6&#34; target=&#34;_blank&#34;&gt;Holzer Alm&lt;/a&gt;. It is  in the backyard of my home place at Tegernsee and I regularly go there for jogging.&lt;/p&gt;
+
+&lt;p&gt;The first thing that we do is to load the needed packages and read in the data in R:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;library(plotKML)
+library(magrittr)
+library(ggplot2)
+library(geodist)
+library(ggmap)
+
+#####read in the gpx
+r &amp;lt;-   plotKML::readGPX(&amp;quot; ...\\\thedata.gpx&amp;quot;, metadata = TRUE, bounds = TRUE, waypoints = TRUE, tracks = TRUE, routes = TRUE)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As the .gpx file reads as a list into R, we need to extract the dataframe containing the single waypoints of the logged track from this list. We do this by accessing the deeper levels of the list.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;t&amp;lt;-r[4][[1]][[1]][[1]]
+head(t)
+
+#gives us this result
+       lon      lat               ele                     time
+1 11.71829 47.73594  737.620361328125 2020-04-05T16:09:41.000Z
+2 11.71823 47.73600 737.6251220703125 2020-04-05T16:09:45.000Z
+3 11.71812 47.73605 737.7398071289062 2020-04-05T16:09:47.000Z
+4 11.71806 47.73607 737.8793334960938 2020-04-05T16:09:49.000Z
+5 11.71803 47.73604 738.0138549804688 2020-04-05T16:09:51.000Z
+6 11.71803 47.73599 738.2489013671875 2020-04-05T16:09:53.000Z
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;By doing this we extract a dataframe that contains all the single waypoints of our recorded track. The dataframe holds information to the geographic coordinates, the elevation and the recording time of each waypoint. We can now already inspect the track.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;#have a first look at the track
+plot(rev(t$lon), rev(t$lat), type = &amp;quot;l&amp;quot;, col = &amp;quot;tomato&amp;quot;, lwd = 3, bty = &amp;quot;n&amp;quot;, ylab = &amp;quot;Latitude&amp;quot;, xlab = &amp;quot;Longitude&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;track.jpeg&#34; &gt;
+
+&lt;img src=&#34;track.jpeg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;We want to analyse our performance during the run, including the speed and distance. To get this information we calculate the distance and the speed between each waypoint. For this, we use simple loops. The geographic distance between each waypoint and the previous one can be calculated by the &lt;a href=&#34;https://rdrr.io/cran/gmt/man/geodist.html&#34; target=&#34;_blank&#34;&gt;geodist&lt;/a&gt; package. The command automatically takes the lat and lon coordinates in our dataframe as an input.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;#caluculate the distance of every waypoint to the previous waypoint
+t$dist.prev&amp;lt;- rep(NA,2772)
+
+for (i in seq(1:nrow(t)-1)){
+t$dist.prev[i] &amp;lt;-  geodist(t,)[i,i+1]
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Our velocity is defined as the rate of change of position with respect to time. So we need to calculate the time passed between the recording of each waypoint and later divide the distance by the time passed.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;# transformation of the time column, so that R can interpret it
+t$time &amp;lt;- strptime(t$time, format = &amp;quot;%Y-%m-%dT%H:%M:%OS&amp;quot;)
+
+#calculate the differences in time of each waypointto the previous one
+#we use abs() command to have absolute values, as the differences 
+#would become negative numbers without it
+t$time.diff&amp;lt;- rep(NA,2772)
+for (i in seq(1:nrow(t)-1)){
+  t$time.diff[i] &amp;lt;-  abs(as.numeric(difftime(t$time[i], t$time[i+1])))
+}
+
+#there are some errors in the time measurements where the app
+#recorded the same time for two points.
+#This would result infinite values for velocity
+# so we will get rid of this
+t$time.diff[t$time.diff == 0]&amp;lt;-1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now with elapsed time and distance we can calculate speed, smooth it a little and inspect the data. To plot the distance on the x-axis we also calculate the cumulative distance of each waypoint. The black line is the raw velocity between each waypoint. It is very fuzzy and we can reduce the noise in the data by applying the loess smoothing shown by the blue line.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;t$speed.m.per.sec &amp;lt;- t$dist.prev / t$time.diff
+t$speed.km.per.h  &amp;lt;- t$speed.m.per.sec * 3.6 # transofrm to kmh^-1
+t$speed.km.per.h[is.na(t$speed.km.per.h)] &amp;lt;-0#last entry converted from NA to 0
+
+####smooth everything a little using lowess 
+t$loess.speed &amp;lt;- lowess(t$speed.km.per.h, f = 0.1)$y
+
+#cumulative distance
+t$cum.dist&amp;lt;-cumsum(t$dist.prev)
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;speed_loess.jpg&#34; &gt;
+
+&lt;img src=&#34;speed_loess.jpg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Now with all the data generated, we can plot the track, colorize it according to the velocity and add a basemap to it. This is done using the &lt;a href=&#34;https://www.rdocumentation.org/packages/ggmap/versions/3.0.0&#34; target=&#34;_blank&#34;&gt;ggmap&lt;/a&gt; package. We use the outer bounds of our waypoint coordinates as the corners of the map and add a little offset to make it look even nicer.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;#get the basemap
+basemap&amp;lt;- get_map(c(left = min(lon)-0.01, bottom = min(lat)-0.005, 
+                    right = max(lon)+0.01, top = max(lat)+0.005),
+                    source=&amp;quot;osm&amp;quot;, zoom=14)
+
+#and plot the map
+ggmap(basemap) 
+               + geom_point(data = t, 
+                 aes(lon,lat,col = loess.speed), size=2, stroke = 0, alpha=0.7) 
+               + labs(x = &amp;quot;Longitude&amp;quot;, y = &amp;quot;Latitude&amp;quot;,
+                      title=&amp;quot;Run up Holzer Alm&amp;quot;, col=&amp;quot;Speed [km/h]&amp;quot;) 
+               + scale_colour_gradient(high = &amp;quot;red&amp;quot;,
+                                       low = &amp;quot;green&amp;quot;,)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This time we use a free basemap from OpenStreetMap. There are plenty of other options for basemaps such as googleMaps. Feel free to play around with the settings a little.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;map.jpeg&#34; &gt;
+
+&lt;img src=&#34;map.jpeg&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;What a very nice visualization!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
