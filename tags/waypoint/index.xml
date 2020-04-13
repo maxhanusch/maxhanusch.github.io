@@ -21,9 +21,9 @@
 
 &lt;h1 id=&#34;analyze-your-running-tracks-with-r&#34;&gt;Analyze your running tracks with R&lt;/h1&gt;
 
-&lt;p&gt;This tutorial shows you how to analyse your running data that are stored nowadays by many tracking apps. Most of these apps allow you to export the tracks  and your training progress. I´ve been using  &lt;a href=&#34;https://www.runtastic.com/de/&#34; target=&#34;_blank&#34;&gt;runtastic&lt;/a&gt; lately which allows you to export the stored data (unfortunately only!) once a week and the export took three days to be available.  Not very customer friendly but thats another story to be told&amp;hellip;..&lt;/p&gt;
+&lt;p&gt;This tutorial shows you how to analyse your  data that is stored nowadays by many fitness apps. Most of these apps allow you to export the tracks  and your training progress. I´ve been using  &lt;a href=&#34;https://www.runtastic.com/de/&#34; target=&#34;_blank&#34;&gt;runtastic&lt;/a&gt; lately which allows you to export the stored data (unfortunately only!) once a week and the export took three days to be available.  Not very customer friendly but thats another story to be told&amp;hellip;..&lt;/p&gt;
 
-&lt;p&gt;The data used in this tutorial can be downloaded under this link and is a .gpx file that was exported from my fitness app.  I was jogging up  a small mountain called &lt;a href=&#34;https://goo.gl/maps/LHJgBrBQpfyrX8nT6&#34; target=&#34;_blank&#34;&gt;Holzer Alm&lt;/a&gt;. It is  in the backyard of my home place at Tegernsee and I regularly go there for jogging.&lt;/p&gt;
+&lt;p&gt;The data used in this tutorial can be downloaded under &lt;a href=&#34;https://github.com/maxhanusch/files/blob/master/2282794e-5232-4783-9b7c-a004725c351d.gpx&#34; target=&#34;_blank&#34;&gt;this link&lt;/a&gt; and is a .gpx file that was exported from my fitness app.  I was jogging up  a small mountain called &lt;a href=&#34;https://goo.gl/maps/LHJgBrBQpfyrX8nT6&#34; target=&#34;_blank&#34;&gt;Holzer Alm&lt;/a&gt;. It is  in the backyard of my home place at Tegernsee and I regularly go there for jogging.&lt;/p&gt;
 
 &lt;p&gt;The first thing that we do is to load the needed packages and read in the data in R:&lt;/p&gt;
 
