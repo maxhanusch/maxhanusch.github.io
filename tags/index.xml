@@ -5,12 +5,52 @@
     <link>https://maxhanusch.github.io/tags/</link>
       <atom:link href="https://maxhanusch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 19:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 19:51:58 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://maxhanusch.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Bryophytes</title>
+      <link>https://maxhanusch.github.io/tags/bryophytes/</link>
+      <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/bryophytes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptic species</title>
+      <link>https://maxhanusch.github.io/tags/cryptic-species/</link>
+      <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/cryptic-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disjunctions</title>
+      <link>https://maxhanusch.github.io/tags/disjunctions/</link>
+      <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/disjunctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macaronesia</title>
+      <link>https://maxhanusch.github.io/tags/macaronesia/</link>
+      <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/macaronesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediterranean</title>
+      <link>https://maxhanusch.github.io/tags/mediterranean/</link>
+      <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/mediterranean/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>animals</title>
@@ -25,14 +65,6 @@
       <link>https://maxhanusch.github.io/tags/biodiversity/</link>
       <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/biodiversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bryophytes</title>
-      <link>https://maxhanusch.github.io/tags/bryophytes/</link>
-      <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/bryophytes/</guid>
       <description></description>
     </item>
     
