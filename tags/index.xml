@@ -5,12 +5,68 @@
     <link>https://maxhanusch.github.io/tags/</link>
       <atom:link href="https://maxhanusch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 19:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Sun, 22 Nov 2020 21:26:00 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://maxhanusch.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Berchtesgaden</title>
+      <link>https://maxhanusch.github.io/tags/berchtesgaden/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/berchtesgaden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>botany</title>
+      <link>https://maxhanusch.github.io/tags/botany/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/botany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flowers</title>
+      <link>https://maxhanusch.github.io/tags/flowers/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/flowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiking</title>
+      <link>https://maxhanusch.github.io/tags/hiking/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>national park</title>
+      <link>https://maxhanusch.github.io/tags/national-park/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/national-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://maxhanusch.github.io/tags/photography/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salzburg</title>
+      <link>https://maxhanusch.github.io/tags/salzburg/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/salzburg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bryophytes</title>
@@ -197,14 +253,6 @@
     </item>
     
     <item>
-      <title>Salzburg</title>
-      <link>https://maxhanusch.github.io/tags/salzburg/</link>
-      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/salzburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>spatial</title>
       <link>https://maxhanusch.github.io/tags/spatial/</link>
       <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
@@ -273,14 +321,6 @@
       <link>https://maxhanusch.github.io/tags/multidiversity/</link>
       <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/multidiversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>national park</title>
-      <link>https://maxhanusch.github.io/tags/national-park/</link>
-      <pubDate>Tue, 15 Oct 2019 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/national-park/</guid>
       <description></description>
     </item>
     

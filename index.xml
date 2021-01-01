@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/</link>
       <atom:link href="https://maxhanusch.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maximilian Hanusch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 19:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Sun, 22 Nov 2020 21:26:00 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Maximilian Hanusch</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://maxhanusch.github.io/publication/</link>
-      <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/publication/</guid>
+      <title>Posts</title>
+      <link>https://maxhanusch.github.io/post/</link>
+      <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://maxhanusch.github.io/post/</link>
-      <pubDate>Mon, 13 Apr 2020 21:26:00 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/post/</guid>
+      <title>Publications</title>
+      <link>https://maxhanusch.github.io/publication/</link>
+      <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/publication/</guid>
       <description></description>
     </item>
     
