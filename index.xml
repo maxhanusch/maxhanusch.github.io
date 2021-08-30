@@ -5,12 +5,20 @@
     <link>https://maxhanusch.github.io/</link>
       <atom:link href="https://maxhanusch.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maximilian Hanusch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Sun, 22 Nov 2020 21:26:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Maximilian Hanusch</title>
       <link>https://maxhanusch.github.io/</link>
     </image>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://maxhanusch.github.io/talk/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Posts</title>
@@ -33,14 +41,6 @@
       <link>https://maxhanusch.github.io/gallery/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://maxhanusch.github.io/gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://maxhanusch.github.io/talk/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://maxhanusch.github.io/talk/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://maxhanusch.github.io/talk/</link>
       <atom:link href="https://maxhanusch.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://maxhanusch.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Succession comprises a sequence of threshold-induced community assembly processes towards multidiversity</title>
+      <link>https://maxhanusch.github.io/talk/gfoe_2021_braunschweig/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/talk/gfoe_2021_braunschweig/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Successions of microbes associated with below and above ground plant parts in a glacier fore field</title>
