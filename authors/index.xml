@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/authors/</link>
       <atom:link href="https://maxhanusch.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2021</copyright><lastBuildDate>Tue, 12 Oct 2021 19:51:58 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Jan-Christoph Otto</title>
+      <link>https://maxhanusch.github.io/authors/jan-christoph-otto/</link>
+      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/jan-christoph-otto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Maximilian Hanusch</title>
       <link>https://maxhanusch.github.io/authors/maximilian-hanusch/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/authors/maximilian-hanusch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert R. Junker</title>
+      <link>https://maxhanusch.github.io/authors/robert-r.-junker/</link>
+      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/robert-r.-junker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victoria Ruiz-Hernández</title>
+      <link>https://maxhanusch.github.io/authors/victoria-ruiz-hernandez/</link>
+      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/victoria-ruiz-hernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xie He</title>
+      <link>https://maxhanusch.github.io/authors/xie-he/</link>
+      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/xie-he/</guid>
       <description></description>
     </item>
     
@@ -69,14 +101,6 @@
     </item>
     
     <item>
-      <title>Jan-Christoph Otto</title>
-      <link>https://maxhanusch.github.io/authors/jan-christoph-otto/</link>
-      <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/authors/jan-christoph-otto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kristina Bauch</title>
       <link>https://maxhanusch.github.io/authors/kristina-bauch/</link>
       <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
@@ -93,34 +117,10 @@
     </item>
     
     <item>
-      <title>Robert R. Junker</title>
-      <link>https://maxhanusch.github.io/authors/robert-r.-junker/</link>
-      <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/authors/robert-r.-junker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sabine Kraushaar</title>
       <link>https://maxhanusch.github.io/authors/sabine-kraushaar/</link>
       <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/authors/sabine-kraushaar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Victoria Ruiz-Hernández</title>
-      <link>https://maxhanusch.github.io/authors/victoria-ruiz-hernandez/</link>
-      <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/authors/victoria-ruiz-hernandez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xie He</title>
-      <link>https://maxhanusch.github.io/authors/xie-he/</link>
-      <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/authors/xie-he/</guid>
       <description></description>
     </item>
     
