@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/tags/</link>
       <atom:link href="https://maxhanusch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Tue, 12 Oct 2021 19:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Sat, 12 Feb 2022 19:51:58 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>animals</title>
+      <link>https://maxhanusch.github.io/tags/animals/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>biodiversity</title>
       <link>https://maxhanusch.github.io/tags/biodiversity/</link>
-      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>https://maxhanusch.github.io/tags/gis/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial analyis</title>
+      <link>https://maxhanusch.github.io/tags/spatial-analyis/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/spatial-analyis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species pool</title>
+      <link>https://maxhanusch.github.io/tags/species-pool/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/species-pool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urban ecology</title>
+      <link>https://maxhanusch.github.io/tags/urban-ecology/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/tags/urban-ecology/</guid>
       <description></description>
     </item>
     
@@ -169,14 +209,6 @@
       <link>https://maxhanusch.github.io/tags/mediterranean/</link>
       <pubDate>Fri, 25 Sep 2020 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/mediterranean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>animals</title>
-      <link>https://maxhanusch.github.io/tags/animals/</link>
-      <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/animals/</guid>
       <description></description>
     </item>
     
@@ -457,14 +489,6 @@
       <link>https://maxhanusch.github.io/tags/geo-referenced-species-data/</link>
       <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/tags/geo-referenced-species-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GIS</title>
-      <link>https://maxhanusch.github.io/tags/gis/</link>
-      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/tags/gis/</guid>
       <description></description>
     </item>
     

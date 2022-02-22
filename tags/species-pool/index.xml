@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>animals | Maximilian Hanusch</title>
-    <link>https://maxhanusch.github.io/tags/animals/</link>
-      <atom:link href="https://maxhanusch.github.io/tags/animals/index.xml" rel="self" type="application/rss+xml" />
-    <description>animals</description>
+    <title>species pool | Maximilian Hanusch</title>
+    <link>https://maxhanusch.github.io/tags/species-pool/</link>
+      <atom:link href="https://maxhanusch.github.io/tags/species-pool/index.xml" rel="self" type="application/rss+xml" />
+    <description>species pool</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Sat, 12 Feb 2022 19:51:58 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
-      <title>animals</title>
-      <link>https://maxhanusch.github.io/tags/animals/</link>
+      <title>species pool</title>
+      <link>https://maxhanusch.github.io/tags/species-pool/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://maxhanusch.github.io/publication/sweet_et_al_data_speciespol/</link>
       <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/publication/sweet_et_al_data_speciespol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ödenwinkel: an Alpine platform for observational and experimental research on the emergence of multidiversity and ecosystem complexity</title>
-      <link>https://maxhanusch.github.io/publication/oedenwinkel_webecology/</link>
-      <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/publication/oedenwinkel_webecology/</guid>
       <description></description>
     </item>
     

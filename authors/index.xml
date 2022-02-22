@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/authors/</link>
       <atom:link href="https://maxhanusch.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Tue, 12 Oct 2021 19:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Sat, 12 Feb 2022 19:51:58 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Jan-Christoph Otto</title>
-      <link>https://maxhanusch.github.io/authors/jan-christoph-otto/</link>
-      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/authors/jan-christoph-otto/</guid>
+      <title>Beate Apfelbeck</title>
+      <link>https://maxhanusch.github.io/authors/beate-apfelbeck/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/beate-apfelbeck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio T. Sweet</title>
+      <link>https://maxhanusch.github.io/authors/fabio-t.-sweet/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/fabio-t.-sweet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximilian Hanusch</title>
       <link>https://maxhanusch.github.io/authors/maximilian-hanusch/</link>
-      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/authors/maximilian-hanusch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang W. Weisser</title>
+      <link>https://maxhanusch.github.io/authors/wolfgang-w.-weisser/</link>
+      <pubDate>Sat, 12 Feb 2022 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/wolfgang-w.-weisser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan-Christoph Otto</title>
+      <link>https://maxhanusch.github.io/authors/jan-christoph-otto/</link>
+      <pubDate>Tue, 12 Oct 2021 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/jan-christoph-otto/</guid>
       <description></description>
     </item>
     
@@ -121,14 +145,6 @@
       <link>https://maxhanusch.github.io/authors/sabine-kraushaar/</link>
       <pubDate>Wed, 12 Aug 2020 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/authors/sabine-kraushaar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beate Apfelbeck</title>
-      <link>https://maxhanusch.github.io/authors/beate-apfelbeck/</link>
-      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/authors/beate-apfelbeck/</guid>
       <description></description>
     </item>
     
@@ -253,14 +269,6 @@
     </item>
     
     <item>
-      <title>Wolfgang W. Weisser</title>
-      <link>https://maxhanusch.github.io/authors/wolfgang-w.-weisser/</link>
-      <pubDate>Thu, 12 Sep 2019 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/authors/wolfgang-w.-weisser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vitoria Ruiz-Hernandez</title>
       <link>https://maxhanusch.github.io/authors/vitoria-ruiz-hernandez/</link>
       <pubDate>Wed, 11 Sep 2019 21:02:56 +0200</pubDate>
@@ -273,7 +281,14 @@
       <link>https://maxhanusch.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://maxhanusch.github.io/authors/admin/</guid>
-      <description></description>
+      <description>
+
+&lt;h3 id=&#34;welcome-to-my-webpage&#34;&gt;Welcome to my webpage&lt;/h3&gt;
+
+&lt;p&gt;I´m an ecologist interested in how local diversity patterns emerge from interactions between multiple taxa, complex feedback loops with the surrounding environment and unpredictable random events. Understanding the relative importance and temporal dynamics of deterministic vs. stochastic processes in the development of ecosystem complexity is a key challenge in ecology. To me, a combination of field-based research, hypothesis-driven laboratory work and the implementation of publicly available database records is the way to obtain mechanistic insights into the multi-faceted processes leading to stable, resilient, and complex ecosystems.&lt;/p&gt;
+
+&lt;p&gt;Right now I am part of the working group of Dr. Robert R. Junker at Salzburg University. We focus on the detection of non-linear associations, multitrophic species-interactions, and threshold-dynamics in natural ecosystems. (secretly I love bryophytes and somehow try to implement them into my research)&lt;/p&gt;
+</description>
     </item>
     
   </channel>
