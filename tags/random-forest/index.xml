@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>random forest | Maximilian Hanusch</title>
+    <link>https://maxhanusch.github.io/tags/random-forest/</link>
+      <atom:link href="https://maxhanusch.github.io/tags/random-forest/index.xml" rel="self" type="application/rss+xml" />
+    <description>random forest</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2023</copyright><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maxhanusch.github.io/img/icon-192.png</url>
+      <title>random forest</title>
+      <link>https://maxhanusch.github.io/tags/random-forest/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy of mutual predictions of plant and microbial communities vary along a successional gradient in an alpine glacier forefield</title>
+      <link>https://maxhanusch.github.io/publication/xie_mutual_predict/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/publication/xie_mutual_predict/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

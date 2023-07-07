@@ -5,12 +5,20 @@
     <link>https://maxhanusch.github.io/tags/plants/</link>
       <atom:link href="https://maxhanusch.github.io/tags/plants/index.xml" rel="self" type="application/rss+xml" />
     <description>plants</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Tue, 12 Oct 2021 19:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2023</copyright><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>plants</title>
       <link>https://maxhanusch.github.io/tags/plants/</link>
     </image>
+    
+    <item>
+      <title>Accuracy of mutual predictions of plant and microbial communities vary along a successional gradient in an alpine glacier forefield</title>
+      <link>https://maxhanusch.github.io/publication/xie_mutual_predict/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/publication/xie_mutual_predict/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Divergent assembly processes? A comparison of the plant and soil microbiome with plant communities in a glacier forefield</title>

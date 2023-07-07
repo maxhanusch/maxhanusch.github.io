@@ -5,12 +5,20 @@
     <link>https://maxhanusch.github.io/talk/</link>
       <atom:link href="https://maxhanusch.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2023</copyright><lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://maxhanusch.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>OECMs as an important tool to improve landscape connectivity in Bavaria/Germany</title>
+      <link>https://maxhanusch.github.io/talk/vilm_2023/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/talk/vilm_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Succession comprises a sequence of threshold-induced community assembly processes towards multidiversity</title>

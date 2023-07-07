@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/</link>
       <atom:link href="https://maxhanusch.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maximilian Hanusch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2022</copyright><lastBuildDate>Tue, 10 May 2022 19:51:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2023</copyright><lastBuildDate>Fri, 07 Jul 2023 21:02:56 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Maximilian Hanusch</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://maxhanusch.github.io/publication/</link>
-      <pubDate>Tue, 10 May 2022 19:51:58 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/publication/</guid>
+      <title>Projects</title>
+      <link>https://maxhanusch.github.io/project/</link>
+      <pubDate>Fri, 07 Jul 2023 21:02:56 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://maxhanusch.github.io/talk/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://maxhanusch.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://maxhanusch.github.io/publication/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://maxhanusch.github.io/publication/</guid>
       <description></description>
     </item>
     
@@ -33,14 +41,6 @@
       <link>https://maxhanusch.github.io/post/</link>
       <pubDate>Sun, 22 Nov 2020 21:26:00 +0200</pubDate>
       <guid>https://maxhanusch.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://maxhanusch.github.io/project/</link>
-      <pubDate>Wed, 11 Sep 2019 21:02:56 +0200</pubDate>
-      <guid>https://maxhanusch.github.io/project/</guid>
       <description></description>
     </item>
     
