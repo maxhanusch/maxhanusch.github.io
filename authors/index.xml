@@ -5,7 +5,7 @@
     <link>https://maxhanusch.github.io/authors/</link>
       <atom:link href="https://maxhanusch.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2023</copyright><lastBuildDate>Fri, 07 Jul 2023 21:02:56 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Maximilian Hanusch 2023</copyright><lastBuildDate>Sat, 12 Aug 2023 19:51:58 +0200</lastBuildDate>
     <image>
       <url>https://maxhanusch.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Julian Selke</title>
+      <link>https://maxhanusch.github.io/authors/julian-selke/</link>
+      <pubDate>Sat, 12 Aug 2023 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/julian-selke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Maximilian Hanusch</title>
       <link>https://maxhanusch.github.io/authors/maximilian-hanusch/</link>
-      <pubDate>Fri, 07 Jul 2023 21:02:56 +0200</pubDate>
+      <pubDate>Sat, 12 Aug 2023 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/authors/maximilian-hanusch/</guid>
       <description></description>
     </item>
@@ -23,8 +31,32 @@
     <item>
       <title>Robert R. Junker</title>
       <link>https://maxhanusch.github.io/authors/robert-r.-junker/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Aug 2023 19:51:58 +0200</pubDate>
       <guid>https://maxhanusch.github.io/authors/robert-r.-junker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Janssen</title>
+      <link>https://maxhanusch.github.io/authors/stefan-janssen/</link>
+      <pubDate>Sat, 12 Aug 2023 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/stefan-janssen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Trutschnig</title>
+      <link>https://maxhanusch.github.io/authors/wolfgang-trutschnig/</link>
+      <pubDate>Sat, 12 Aug 2023 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/wolfgang-trutschnig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xie He</title>
+      <link>https://maxhanusch.github.io/authors/xie-he/</link>
+      <pubDate>Sat, 12 Aug 2023 19:51:58 +0200</pubDate>
+      <guid>https://maxhanusch.github.io/authors/xie-he/</guid>
       <description></description>
     </item>
     
@@ -33,14 +65,6 @@
       <link>https://maxhanusch.github.io/authors/victoria-ruiz-hernandez/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://maxhanusch.github.io/authors/victoria-ruiz-hernandez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xie He</title>
-      <link>https://maxhanusch.github.io/authors/xie-he/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://maxhanusch.github.io/authors/xie-he/</guid>
       <description></description>
     </item>
     
